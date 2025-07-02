@@ -1,0 +1,35 @@
+footer {
+  background: #222;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.f-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.f-info-socials a {
+  color: #fff;
+  margin: 0 10px;
+  font-size: 1.5rem;
+  transition: color 0.2s;
+}
+
+.f-info-socials a:hover {
+  color: #0077b5; /* LinkedIn blue as example */
+}
+
+.f-info-links a {
+  color: #fff;
+  margin: 0 8px;
+  text-decoration: none;
+  transition: text-decoration 0.2s;
+}
+
+.f-info-links a:hover {
+  text-decoration: underline;
+}
