@@ -9,8 +9,8 @@ MediRural is dedicated to making quality healthcare accessible to rural communit
         4.Subscription and auto-renewal options for regular medicines
         5.Support from certified pharmacists and healthcare professionals
 
-#Technologies Used
-        > Node.js
+#Technologies Used :-
+          Node.js
         > Express.js
         > React
         > Cloudinary
